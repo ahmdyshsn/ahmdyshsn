@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ahmed Yassin Hassn</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
 
 <h3 align="center">
-Software Developer | Flutter & Django Developer | API & Web Systems Builder
+Software Developer | Flutter Developer | Django Backend Developer | Web Systems & API Developer
 </h3>
 
 <p align="center">
-I build mobile applications, web systems, APIs, and backend solutions using Flutter, Dart, Python, Django, Django REST Framework, and modern web technologies.
+I build mobile applications, web systems, REST APIs, and backend solutions using Flutter, Dart, Python, Django, Django REST Framework, and modern web technologies.
 </p>
 
 <p align="center">
@@ -15,33 +15,72 @@ I build mobile applications, web systems, APIs, and backend solutions using Flut
   <a href="https://portfolio.nittero.sd">
     <img src="https://img.shields.io/badge/Portfolio-portfolio.nittero.sd-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/ahmed-yassin-hassn-79b242398">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Yassin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/249121762348">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B249121762348-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am **Ahmed Yassin Hassn**, a software developer working at **Evasoft Sudan**.
+I am **Ahmed Yassin**, a software developer focused on building **mobile apps, web systems, backend APIs, and practical digital solutions**.
 
-I have experience in building **mobile apps, websites, backend APIs, web systems, and hosting solutions**.
-I work with Flutter and Dart for mobile development, Python and Django for backend systems, and HTML, CSS, JavaScript, Bootstrap, and databases for web development.
+I develop **mobile applications, websites, web systems, backend APIs, and database-driven solutions**.
+My main focus is building clean, practical, and scalable software that solves real business problems.
 
-I also have hands-on experience with **Linux servers**, **web hosting**, **API integration**, and server-side setup.
-One of my technical experiences includes setting up an **Asterisk server**, which strengthened my understanding of Linux environments, networking, and server configuration.
+I work with **Flutter** and **Dart** for mobile development, **Python**, **Django**, and **Django REST Framework** for backend development, and **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for web interfaces.
+
+I also have hands-on experience with **Linux servers**, **web hosting**, **deployment**, **API integration**, and **networking fundamentals**.
 
 ---
 
-## 🧠 What I Do
+## 🚀 Featured Work
 
-* 📱 Mobile app development using Flutter & Dart
-* 🌐 Web development using HTML, CSS, JavaScript & Bootstrap
-* ⚙️ Backend development using Python, Django & Django REST Framework
-* 🔗 REST API development and API integration
-* 🗄️ Database design and management
-* 🖥️ Linux server setup and configuration
-* ☁️ Web hosting and deployment
-* 📞 Asterisk server setup and configuration
-* 🧩 Web systems and business application development
+### 📱 Mobile Applications
+
+I build Flutter mobile applications with:
+
+* Clean and responsive user interfaces
+* REST API integration
+* Authentication and user flows
+* Local and remote data handling
+* Dark and light mode support
+* Real-world business features
+
+### 🌐 Web Systems
+
+I develop web-based systems using Django and modern frontend technologies, including:
+
+* Admin dashboards
+* Database-driven web applications
+* Business management systems
+* Forms, reports, and user management
+* Responsive interfaces using Bootstrap
+
+### 🔗 APIs & Backend Systems
+
+I build backend systems and APIs with:
+
+* Django REST Framework
+* Authentication and permissions
+* Database models and relationships
+* API endpoints for mobile and web apps
+* Admin panel customization
+* Clean backend structure
+
+### 🖥️ Servers, Hosting & Deployment
+
+I have practical experience with:
+
+* Linux server environments
+* Web hosting setup
+* Domain and deployment configuration
+* Backend production setup
+* Basic networking concepts such as IP addressing, routing, and switching fundamentals
 
 ---
 
@@ -65,62 +104,56 @@ One of my technical experiences includes setting up an **Asterisk server**, whic
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### Servers, Hosting & Tools
+### Servers, Databases & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Asterisk](https://img.shields.io/badge/Asterisk-FF6A00?style=for-the-badge\&logo=asterisk\&logoColor=white)
-![API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![Web Hosting](https://img.shields.io/badge/Web_Hosting-2C3E50?style=for-the-badge)
-![Database](https://img.shields.io/badge/Database-336791?style=for-the-badge)
+![Database](https://img.shields.io/badge/Databases-336791?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking_Fundamentals-0A66C2?style=for-the-badge)
 
 ---
 
-## 🚀 Projects & Experience
+## 🧠 Skills & Experience
 
-### 📱 Mobile Applications
-
-I have built mobile applications using Flutter and Dart with clean UI, API integration, authentication, database handling, and responsive layouts.
-
-### 🌐 Websites & Web Systems
-
-I have developed websites and web-based systems using Django, Django REST Framework, Bootstrap, JavaScript, HTML, CSS, and databases.
-
-### 🔗 APIs & Backend Systems
-
-I work on REST APIs, authentication systems, admin panels, data management, and backend logic for mobile and web applications.
-
-### 🖥️ Server & Hosting Work
-
-I have experience working with Linux servers, web hosting environments, deployment, domain configuration, and server setup.
-
-### 📞 Asterisk Server
-
-I have set up and configured an Asterisk server, giving me practical experience with Linux server administration, communication systems, and technical troubleshooting.
+* Mobile app development with Flutter and Dart
+* Backend development with Python and Django
+* REST API development and integration
+* Django REST Framework
+* Web systems development
+* HTML, CSS, JavaScript, and Bootstrap
+* Database design and data management
+* Linux server basics and hosting setup
+* Web deployment and production configuration
+* Networking fundamentals and CCNA-level concepts
+* Problem solving and technical troubleshooting
 
 ---
 
-## 📌 Currently Working On
+## 📌 Currently Improving
 
-* Improving my Flutter and Django development skills
-* Building real-world mobile and web systems
-* Strengthening my backend, API, and deployment experience
-* Growing my professional portfolio for software development opportunities
+* Advanced Flutter development
+* Django REST API architecture
+* Backend security and authentication
+* Clean code and scalable project structure
+* Linux server deployment
+* Database design and optimization
+* Professional software project documentation
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Career Goal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmdyshsn&show_icons=true&theme=default" alt="Ahmed's GitHub Stats" />
-</p>
+I am focused on growing as a professional software developer and building reliable, useful, and scalable software solutions for real-world business needs.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdyshsn" alt="Ahmed's GitHub Streak" />
-</p>
+I am interested in opportunities related to:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdyshsn&layout=compact" alt="Top Languages" />
-</p>
+* Flutter mobile development
+* Django backend development
+* REST API development
+* Web systems development
+* Full-stack development
+* Software support and deployment
 
 ---
 
@@ -128,32 +161,31 @@ I have set up and configured an Asterisk server, giving me practical experience 
 
 * **Email:** [ahmdyshsn@gmail.com](mailto:ahmdyshsn@gmail.com)
 * **Portfolio:** https://portfolio.nittero.sd
+* **LinkedIn:** https://www.linkedin.com/in/ahmed-yassin-hassn-79b242398
+* **WhatsApp / Calls:** +249 12 176 2348
 * **GitHub:** https://github.com/ahmdyshsn
 
 ---
 
-# مرحباً 👋، أنا أحمد ياسين حسن
+# مرحباً 👋، أنا أحمد يس
 
-أنا مطوّر برمجيات أعمل في **Evasoft Sudan**، ولدي خبرة في تطوير تطبيقات الموبايل، المواقع الإلكترونية، الأنظمة الخلفية، واجهات برمجة التطبيقات، وأنظمة الويب.
+أنا **أحمد يس**، مطوّر برمجيات أركز على بناء تطبيقات الموبايل، أنظمة الويب، الأنظمة الخلفية، وواجهات برمجة التطبيقات.
 
-أعمل باستخدام تقنيات مثل:
+لدي خبرة في تطوير تطبيقات الموبايل، المواقع الإلكترونية، أنظمة الويب، الأنظمة الخلفية، والـ APIs، مع التركيز على بناء حلول عملية واحترافية تساعد في حل مشاكل حقيقية.
+
+أعمل باستخدام:
 
 * Flutter و Dart لتطوير تطبيقات الموبايل
 * Python و Django و Django REST Framework لتطوير الأنظمة الخلفية والـ APIs
 * HTML و CSS و JavaScript و Bootstrap لتطوير واجهات الويب
 * قواعد البيانات وأنظمة الاستضافة
-* Linux servers وإعدادات السيرفرات
-* إعداد Asterisk server
+* Linux servers وإعدادات النشر
+* أساسيات الشبكات Networking Fundamentals
+* بناء أنظمة الويب والحلول البرمجية للأعمال
 
-هدفي هو بناء حلول برمجية عملية، نظيفة، وقابلة للتطوير، وتقديم ملف GitHub احترافي يعكس مهاراتي وخبرتي ويساعدني في الحصول على فرص عمل أفضل.
+هدفي هو تطوير حلول برمجية عملية واحترافية، وبناء مسار مهني قوي في مجال تطوير البرمجيات.
 
----
-
-## 🎯 Professional Goal
-
-My goal is to continue growing as a software developer and build reliable, useful, and professional software solutions for real-world business needs.
-
-</br>
+<br>
 
 <p align="center">
   <strong>Thanks for visiting my profile 🚀</strong>
